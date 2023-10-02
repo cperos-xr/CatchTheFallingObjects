@@ -161,7 +161,7 @@ MonoBehaviour:
   levelDataSOList:
   - {fileID: 11400000, guid: 808d9194191afe74a8bdab29b90e4082, type: 2}
   playerSOList:
-  - {fileID: 11400000, guid: 474364bbe015285478a52b980884a1f7, type: 2}
+  - {fileID: 11400000, guid: d4d43cdab9800cb44bca12f1cbfc4cdd, type: 2}
 --- !u!4 &135227217
 Transform:
   m_ObjectHideFlags: 0
